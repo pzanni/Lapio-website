@@ -1,1 +1,13 @@
-p { background-color: red; }
+h1 { color: blue; }
+
+.leipateksti {
+  color: firebrick;
+}
+
+#pinkki-kohta {
+  color: fuchsia;
+}
+
+#punainen-kohta {
+  color: red;
+}
